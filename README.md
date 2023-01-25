@@ -3,7 +3,7 @@ My fist repository to store and write
 I will write in the bioinformaticsas from monday 23 January to 27 January
 
 # DAY 1
-**Installationof relevant information
+**Installationof relevant information**
 **We installed gitbash**
 *8Rstudio**
 
